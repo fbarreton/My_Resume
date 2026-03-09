@@ -1,4 +1,4 @@
-# Felipe Barreto
+# Felipe Alberto Barreto Naged
 
 📍 Melbourne, VIC, Australia  
 📧 felipe.a.barreto.n@gmail.com  
