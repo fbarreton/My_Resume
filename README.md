@@ -4,8 +4,7 @@
 📧 felipe.a.barreto.n@gmail.com  
 📞 +61 434 047 440  
 
-🔗 [LinkedIn](https://www.linkedin.com/)  
-💻 [GitHub](https://github.com/)  
+💻 [GitHub](https://github.com/fbarreton/)  
 
 ![Power BI](https://img.shields.io/badge/PowerBI-Advanced-yellow)
 ![SQL](https://img.shields.io/badge/SQL-Advanced-blue)
