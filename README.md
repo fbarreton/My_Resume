@@ -55,9 +55,8 @@ Business Intelligence Analyst with **5+ years of experience** delivering **data-
 - Developed **text analytics tools** to identify patterns in inspection data.  
 - Delivered **portfolio reporting insights** to project delivery teams and senior leadership.  
 
-📌 *Dashboard Preview:*  
-![Power BI Dashboard Example](./images/powerbi_dashboard.png)  
-🔗 [View Dashboard Online](#) *(link to your published dashboard)*  
+📌 **Featured Project:**  
+🔗 [Enterprise Power BI Portfolio Reporting – Case Study](https://github.com/fbarreton/Projects/blob/main/enterprise-powerbi-portfolio-reporting.md)
 
 ---
 
