@@ -130,7 +130,7 @@ Interactive dashboard analysing revenue trends and sales performance.
 - KPI monitoring  
 - Regional performance breakdown  
 
-![Sales Dashboard Project]([./Projects/tree/main/sales_dashboard_project_assets](https://github.com/fbarreton/Projects/tree/main/sales_dashboard_project_assets))
+![Sales Dashboard Project](https://github.com/fbarreton/Projects/tree/main/sales_dashboard_project_assets)
 
 ---
 
