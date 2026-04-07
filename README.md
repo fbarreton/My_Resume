@@ -46,7 +46,7 @@ Business Intelligence Analyst with **5+ years of experience** delivering **data-
 # 💼 Professional Experience
 
 ## Data Insights Analyst (Business Intelligence)  
-**Sterling Infrastructure Pty — Melbourne, Australia**  
+**Sterling Infrastructure Pty Ltd — Melbourne, Australia**  
 *Jun 2023 – Oct 2024*
 
 - Developed a **centralised Power BI application** integrating KPIs from **30+ data sources**.  
