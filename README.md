@@ -130,7 +130,7 @@ Interactive dashboard analysing revenue trends and sales performance.
 - KPI monitoring  
 - Regional performance breakdown  
 
-🔗 [Enterprise Power BI Sales Dashboard – Case Study](https://github.com/fbarreton/Projects/blob/main/enterprise-powerbi-portfolio-reporting.md)
+![Sales Dashboard Project](./Projects/tree/main/sales_dashboard_project_assets)
 
 ---
 
